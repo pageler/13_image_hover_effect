@@ -1,1 +1,4 @@
 HuXn WebDev Tutorials
+hover-image1--Brian Tafel
+hover-image2--Faruk Tokluoğlu
+hover-image3--Ahmed

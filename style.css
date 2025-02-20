@@ -29,3 +29,26 @@ body {
     height: 100%;
     transition: all 0.5s;
 }
+
+/* Images */
+.clip1 {
+    background-image: url(assets/Images/hover-image2--Faruk-Tokluoğlu.avif);
+    background-size: cover;
+    background-position: center;
+    clip-path: polygon(0, 0, 46%, 0, 0, 39%, 100%, 0, 100%)
+}
+
+.clip2 {
+    background-image: url(assets/Images/hover-img1--Brian-Tafel.avif);
+    background-size: cover;
+    background-position: center;
+    clip-path: polygon(19% 0, 87% 0, 64% 100%, 33% 100%);
+}
+
+.clip3 {
+    background-image: url(assets/Images/hover-image3--Ahmed.avif);
+    background-size: cover;
+    background-position: center;
+    clip-path: polygon(82% 0, 100% 0, 100% 100%, 63% 100%);
+}
+
